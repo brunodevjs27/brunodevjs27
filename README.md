@@ -13,12 +13,13 @@ Desenvolvedor focado na construção de aplicações eficientes e funcionais. At
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="Linguagem C" /> 
   <br>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> 
   <i>(Estilização Moderna e Responsiva)</i>
 </p>
 
-**Back-end & Linguagens:**
+**Back-end**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> 
   <i>(Automação e Lógica)</i>
@@ -27,11 +28,6 @@ Desenvolvedor focado na construção de aplicações eficientes e funcionais. At
   <i>(Conhecimentos iniciais e Arquitetura)</i>
 </p>
 
-**Foco atual:**
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="Linguagem C" /> 
-  <i>(Iniciando estudos para compreensão de baixo nível)</i>
-</p>
 **Ferramentas:**
 - Git & GitHub (Controle de Versão)
 - VS Code (Ambiente de Desenvolvimento)
