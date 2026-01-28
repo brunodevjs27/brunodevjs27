@@ -52,11 +52,11 @@ Fora do ambiente de desenvolvimento, busco manter um equilíbrio entre criativid
 
 <p align="left">
   <a href="LINK_DO_SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="78" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="75" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:SEU_EMAIL@EMAIL.COM" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="82" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="78" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://brunodevjs27.github.io/" target="_blank">
